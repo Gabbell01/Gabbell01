@@ -1,4 +1,4 @@
-## Oiii eu sou o Gabriel Cunha Desenvolvedor Jr
+## Olá eu sou o Gabriel Desenvolvedor Front-end
 <div align="center">
   <a href="https://github.com/Gabbell01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabbell01&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
